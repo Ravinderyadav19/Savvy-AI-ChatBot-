@@ -8,7 +8,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pranjal Soni Roll No: 63 | CSE Semester 4 Project: SavvyAI (INT428) Guide: Avijit Tewary",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
